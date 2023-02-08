@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1674902496 source:d:\workspace\scu\2nd semester\283\p1\operations.cpp
+	<stdlib.h>
+
+1675129905 source:d:\workspace\scu\2nd semester\283\p1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	<cstring>
+	<regex>
+	<algorithm>
+	"operations.cpp"
+	"Calculator.cpp"
+	"Hash.cpp"
+
+1674902496 d:\workspace\scu\2nd semester\283\p1\operations.cpp
+	<stdlib.h>
+
+1675045159 source:d:\workspace\scu\2nd semester\283\p1\hashtable.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	"Hash.cpp"
+
+1675123284 d:\workspace\scu\2nd semester\283\p1\hash.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+
+1675123284 source:d:\workspace\scu\2nd semester\283\p1\hash.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+
+1675118858 d:\workspace\scu\2nd semester\283\p1\calculator.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<ctype.h>
+
+1675118858 source:d:\workspace\scu\2nd semester\283\p1\calculator.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<ctype.h>
+
